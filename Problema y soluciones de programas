@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-10-02T19:59:20.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="SEsRvWnjDRIOr6VmqwQZ" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-03T18:24:16.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="B-UPBZsEziQQgfDxe_da" version="20.4.0" type="github">
   <diagram id="9rEMcYSLVxXjbzyB6xN9" name="Página-1">
-    <mxGraphModel dx="2714" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2310" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AGvx2-WtebmQwBHQ1s43-42" value="Solucion  a un problema" style="swimlane;fillColor=default;fontColor=#333333;strokeColor=#666666;gradientColor=none;startSize=23;" parent="1" vertex="1">
-          <mxGeometry x="280" y="250" width="980" height="920" as="geometry" />
+          <mxGeometry x="270" y="250" width="1020" height="880" as="geometry" />
         </mxCell>
-        <mxCell id="prgG3OwdO3l5voQtUHVJ-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;En resumen a la solucion a un problema:&lt;br&gt;&lt;/font&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;El diseño (los planos de la solucion)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;El codigo fuente del programa (Acompañado con el ambiente de trabajo)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Archivo de construccion del programa, mejor dicho el compilador. Que resultado de eso tendremos el codigo objeto que luego sera instalado para el usuario en su utilizacion.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Por ultimo las pruebas o testing&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="AGvx2-WtebmQwBHQ1s43-42">
-          <mxGeometry x="650" y="434.95" width="290" height="290" as="geometry" />
+        <mxCell id="prgG3OwdO3l5voQtUHVJ-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;En resumen a la solucion a un problema:&lt;br&gt;&lt;/font&gt;&lt;ul style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;El diseño (los planos de la solucion)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;El codigo fuente del programa (Acompañado con el ambiente de trabajo)&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Archivo de construccion del programa, mejor dicho el compilador. Que resultado de eso tendremos el codigo objeto que luego sera instalado para el usuario en su utilizacion.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Por ultimo las pruebas o testing&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" parent="AGvx2-WtebmQwBHQ1s43-42" vertex="1">
+          <mxGeometry x="650" y="432.43" width="295.05" height="295.05" as="geometry" />
         </mxCell>
         <mxCell id="AGvx2-WtebmQwBHQ1s43-1" value="Proceso y herramientas&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="prgG3OwdO3l5voQtUHVJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AGvx2-WtebmQwBHQ1s43-41" target="prgG3OwdO3l5voQtUHVJ-5">
+        <mxCell id="prgG3OwdO3l5voQtUHVJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AGvx2-WtebmQwBHQ1s43-41" target="prgG3OwdO3l5voQtUHVJ-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="889.9999999999995" y="829.9549999999999" as="targetPoint" />
           </mxGeometry>
