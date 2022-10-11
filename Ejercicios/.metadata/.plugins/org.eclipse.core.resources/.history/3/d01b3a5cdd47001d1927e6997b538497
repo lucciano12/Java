@@ -1,0 +1,16 @@
+package uniandes.cupi2.simuladorBancario.mundo;
+
+public class CuentaBancaria {
+	
+	//Atributos
+	private String cedula;
+	private String nombre;
+	
+	private CuentaCorriente corriente;
+	private CuentaAhorros ahorros;
+	private CDT inversion;
+	private Mes mesActual;
+	
+	//Metodos
+	
+}
