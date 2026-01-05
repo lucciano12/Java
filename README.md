@@ -3,6 +3,7 @@ Repositorio que contiene una colección de casos de estudio y ejercicios prácti
 Este repositorio documenta mi trayecto de aprendizaje en análisis de problemas, descomposición de soluciones y modelado de sistemas utilizando Java como lenguaje principal.
 
 🎯 Objetivos del Repositorio
+
 Comprender y aplicar conceptos fundamentales de POO: clases, objetos, encapsulación, herencia, polimorfismo.
 
 Resolver problemas reales a través del diseño de soluciones orientadas a objetos.
